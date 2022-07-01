@@ -8,16 +8,16 @@ Access logs and development via [console.twilio.com](console.twilio.com).
 
 ## A few useful flows:
 
-Analytics: 
+### Analytics: 
 
 Monitor > Logs > Messaging
 
 Insights > Messages 
 
-App Development: 
+### App Development: 
 
 Develop > Functions and Assets > Services > sms-notifications
 
-Slack integration:
+### Slack Integration:
 
 Develop > Studio > Flows 
