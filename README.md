@@ -6,7 +6,7 @@ Developed and deployed to Twilio, the app can be found at [contact-tracing.camb-
 
 Access logs and development via [console.twilio.com](console.twilio.com).
 
-## A few useful flows:
+## Useful flows in the Twilio Console:
 
 ### Analytics: 
 
